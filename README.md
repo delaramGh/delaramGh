@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delaramGh
-- 👀 I’m interested in hardware programming and AI
-- 🌱 I’m currently working on my master's thesis, and I'm also trying to do some projects on STM32 to refresh and extend my knowledge in the field 🦾😍
+- 👀 I’m interested in hardware programming and Test Automation with Python
+- 🌱 I’m currently working on my master's thesis, and I'm also trying to do some fun projects to extend my knowledge in the field 🦾😍
 - 📫 How to reach me: deli.zizou@gmail.com
 
 <!---
